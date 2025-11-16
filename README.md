@@ -1,6 +1,10 @@
 # Nguni ASR Demo
 Interface to Test Nguni ASR Models finetuned using whisper and wav2vec2
 
+The interface is hosted on HuggingFace Spaces at the following:
+nmoyo45/nguni-asr-space
+https://huggingface.co/spaces/nmoyo45/nguni-asr-space
+
 A multilingual Nguni ASR interface supporting:
 - isiZulu (zu_wav2vec2)
 - isiXhosa (zu_wav2vec2)
