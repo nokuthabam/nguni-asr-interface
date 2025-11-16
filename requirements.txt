@@ -1,0 +1,7 @@
+gradio
+transformers
+torch
+torchaudio
+soundfile
+librosa
+huggingface_hub
