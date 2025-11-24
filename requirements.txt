@@ -5,3 +5,6 @@ torchaudio
 soundfile
 librosa
 huggingface_hub
+pyctcdecode
+ffmpeg-python
+pydub
