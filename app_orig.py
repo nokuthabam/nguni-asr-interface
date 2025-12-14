@@ -7,7 +7,7 @@ models = {
     "siSwati": "nmoyo45/sv_wav2vec2",
     "isiNdebele": "nmoyo45/nbl_wav2vec2",
 }
-
+KENLM_PATH = "nguni_3gram.arpa"
 
 def transcribe_audio(language, audio):
     """
